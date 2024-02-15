@@ -38,7 +38,7 @@ function App() {
                 className='w-72 h-72 border-2'
                 style={{ background: color }}></div>
             <button className='bg-[#166199]' onClick={handlyChange}>
-                Change Color
+                Change Colo
             </button>
 
             <button className='bg-[#c31256]' onClick={hand}>
